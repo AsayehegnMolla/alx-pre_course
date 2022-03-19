@@ -1,1 +1,1 @@
-My first readme
+This is my Git project readme file
