@@ -1,1 +1,2 @@
-This is my Git project readme file
+This is my first readme with ALX
+And am feeling good
