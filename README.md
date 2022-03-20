@@ -1,2 +1,2 @@
-This is my first readme with ALX
-And am feeling good
+This is my first respository beign updated
+Hellllloooo ALX software engineering 
