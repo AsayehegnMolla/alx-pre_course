@@ -1,1 +1,1 @@
-This is my first respository beign updated
+This is my first on update_script respository beign updated
