@@ -1,2 +1,6 @@
 #!/bin/bahs
+<<<<<<< HEAD
+echo "ALX School"
+=======
 echo "ALX School is so cool!"
+>>>>>>> cf474b8d9f703f37b14f6b7f4dc029a336a68513
